@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<vector>
+//Yaya
 using namespace std;
 class Medicine{ //uses class instead of struct as class is more powerful with functions than a struct
     private:
